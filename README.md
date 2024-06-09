@@ -2,4 +2,4 @@
 
 Notes app
 
-also you to create different note with commands.
+You can create, delete and get notes with commands.
